@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'openaisearche'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_214862E0A8414E9286EF46884C27C84D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FA897ABA7C14D2D9FC44DD52AB9D73C }}
